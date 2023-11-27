@@ -1,7 +1,8 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://blog-ccbcc.web.app/'
 languageCode = 'en-us'
 theme = 'smigle'
 title = 'maxi'
+
 [[menu.main]]
 identifier = "home"
 name = "Home"
