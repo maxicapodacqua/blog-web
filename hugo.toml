@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Maxi'
+theme = 'smigle'
+
+[Params]
+subtitle = 'Not much, just some coding stuff'
