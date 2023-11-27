@@ -2,6 +2,7 @@
 title = 'Hi'
 date = 2023-11-26T21:21:23-06:00
 draft = true
+tags = ['social']
 +++
 
 So, this is my first time writing a blog post (ever).
