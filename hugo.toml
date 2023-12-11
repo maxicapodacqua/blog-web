@@ -36,3 +36,8 @@ description = 'Not much, just some coding stuff - maxi'
 [[Params.social]]
 name = "Github"
 url = "https://github.com/maxicapodacqua"
+
+
+[services]
+[services.googleAnalytics]
+ID = 'G-2M1S0XR5R0'
