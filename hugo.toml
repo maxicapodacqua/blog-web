@@ -2,6 +2,8 @@ baseURL = 'https://blog-ccbcc.web.app/'
 languageCode = 'en-us'
 theme = 'smigle'
 title = 'maxi'
+enableRobotsTXT = true
+
 
 [[menu.main]]
 identifier = "home"
@@ -30,6 +32,7 @@ abbrDateFmt = "Jan 2"
 author = "maxi"
 dateFmt = "2006-01-02 15:04"
 subtitle = 'Not much, just some coding stuff'
+description = 'Not much, just some coding stuff - maxi'
 [[Params.social]]
 name = "Github"
 url = "https://github.com/maxicapodacqua"
